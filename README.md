@@ -40,6 +40,11 @@ V1/V2 = e [ -a (L1+L2 ) ]
 |      0.5m        |         2V          |        6.8V          |
 |      1 m         |         2V          |        5.2V          |
 
+### OUTPUT:
+![WhatsApp Image 2025-11-15 at 08 32 18_06caf0f4](https://github.com/user-attachments/assets/6f0ca7b7-c7fb-42fa-947e-0b05d5886cac)
+![WhatsApp Image 2025-11-15 at 08 32 31_6b181492](https://github.com/user-attachments/assets/775cae7d-8f0f-48a8-83e3-147b84092bbe)
+
+
 # RESULT:
 Attenuation and bending loss characteristics verified.
 
