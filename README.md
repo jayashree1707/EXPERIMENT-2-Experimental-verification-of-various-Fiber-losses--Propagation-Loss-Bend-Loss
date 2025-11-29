@@ -41,6 +41,7 @@ V1/V2 = e [ -a (L1+L2 ) ]
 |      1 m         |         2V          |        5.2V          |
 
 ### OUTPUT:
+
 ![WhatsApp Image 2025-11-15 at 08 32 18_0bdbf1f5](https://github.com/user-attachments/assets/ea3d4117-2148-455c-b014-a19e7ad7f4c6)
 
 ![WhatsApp Image 2025-11-15 at 08 32 31_6b181492](https://github.com/user-attachments/assets/775cae7d-8f0f-48a8-83e3-147b84092bbe)
